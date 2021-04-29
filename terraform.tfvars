@@ -1,0 +1,11 @@
+developers=[
+    "deveveloper_user01",
+    "deveveloper_user02"
+]
+devops=[
+    "devops_user01",
+    "devops_user02"
+]
+tech_leads=[
+    "tech_lead_user01"
+]
